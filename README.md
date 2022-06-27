@@ -16,12 +16,12 @@
   <a href="https://twitter.com/reckerswartz" title="Recker Swartz | Twitter" target="_blank">
     <img alt="Recker Swartz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
-<!--   <a href="https://www.facebook.com/reckerswartz/" title="Recker Swartz | Facebook" target="_blank">
+  <a href="https://www.facebook.com/reckerswartz/" title="Recker Swartz | Facebook" target="_blank">
     <img alt="Recker Swartz | Facebook" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />
-  </a> -->
-<!--   <a href="https://www.instagram.com/reckerswartz/" title="Recker Swartz | Instagram" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/reckerswartz/" title="Recker Swartz | Instagram" target="_blank">
     <img alt="Recker Swartz | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.svg" />
-  </a> -->
+  </a>
   <a href="mailto:reckerswartz@hotmail.com" title="Recker Swartz | Gmail" target="_blank">
     <img alt="Recker Swartz | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
   </a>
@@ -51,15 +51,15 @@
 
 <p align="center">
     <!-- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> -->
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Areckerswartz+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
 
 #### 🧰 Frameworks and libraries
@@ -80,8 +80,8 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
 </p>
 
 #### 💻 Software and tools
@@ -114,18 +114,18 @@
 <p align=center>
   <div align=center>
     <!-- GitHub Streak -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/reckerswartz/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=reckerswartz&theme=react&border=61dafb&hide_border=false" alt="jacktherock" />
     </a>
     <!-- GitHub Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/reckerswartz/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=reckerswartz&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <!-- Language Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/reckerswartz/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reckerswartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
     </a>
   </div>

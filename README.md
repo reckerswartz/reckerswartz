@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Senior+Full+Stack+Developer;Ruby+on+Rails+%E2%80%A2+React+%E2%80%A2+AWS;8%2B+Years+%E2%80%A2+Microservices" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Senior+Full+Stack+Developer;Rails+%C2%B7+React+%C2%B7+AWS+%C2%B7+8%2B+Yrs" />
   </a>
 </h1>
 
@@ -158,7 +158,7 @@ Currently pursuing an **MBA** to complement my engineering career with leadershi
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reckerswartz&theme=algolia&no-bg=false&no-frame=false&margin-w=5&margin-h=0&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reckerswartz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=0&column=6" />
 </p>
 
 ---
@@ -175,14 +175,14 @@ Currently pursuing an **MBA** to complement my engineering career with leadershi
       </a>
       <!-- GitHub Stats -->
       <a href="https://github.com/reckerswartz" title="GitHub Stats">
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=reckerswartz&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false" />
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=reckerswartz&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false&cache_seconds=86400" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br>
     <div align="center">
       <!-- Language Stats -->
       <a href="https://github.com/reckerswartz">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reckerswartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reckerswartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false&cache_seconds=86400" />
       </a>
     </div>
     <br>

@@ -158,7 +158,7 @@ Currently pursuing an **MBA** to complement my engineering career with leadershi
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reckerswartz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=0&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=reckerswartz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=0&column=6" />
 </p>
 
 ---
@@ -175,14 +175,14 @@ Currently pursuing an **MBA** to complement my engineering career with leadershi
       </a>
       <!-- GitHub Stats -->
       <a href="https://github.com/reckerswartz" title="GitHub Stats">
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=reckerswartz&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false&cache_seconds=86400" />
+        <img align="right" width=396 src="https://github-readme-stats-sigma-five.vercel.app/api?username=reckerswartz&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false&cache_seconds=86400" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br>
     <div align="center">
       <!-- Language Stats -->
       <a href="https://github.com/reckerswartz">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reckerswartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false&cache_seconds=86400" />
+        <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reckerswartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false&cache_seconds=86400" />
       </a>
     </div>
     <br>
